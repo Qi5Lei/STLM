@@ -10,4 +10,17 @@ Visualization results
   <img src="images/visual.png?raw=true" width="99.1%" />
 </p>
 
-![]([https://github.com/Qi5Lei/STLM/blob/main/images/visA.pdf]) 
+![visA]([images/visA.pdf]) 
+
+# Citation
+
+```tex
+@article{STLM,
+author = {Li, Chenghao and Qi, Lei and Geng, Xin},
+title = {A SAM-guided Two-stream Lightweight Model for Anomaly Detection},
+year = {2024},
+journal = {ACM Transactions on Multimedia Computing Communications and Applications},
+}
+
+
+```
